@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "*"
+uvicorn = {extras = ["standard"], version = "*"}
+databases = "*"
+psycopg2-binary = "*"
+environs = "*"
+asyncpg = "*"
+alembic = "*"
+fastapi-pagination = "*"
+passlib = "*"
+python-multipart = "*"
+python-jose = "*"
+pandas = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

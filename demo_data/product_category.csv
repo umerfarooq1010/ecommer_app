@@ -1,0 +1,10 @@
+"name","description","created_by"
+All,All,1
+Saleable,All / Saleable,1
+Expenses,All / Expenses,1
+Internal,All / Internal,1
+Services,All / Saleable,1
+Saleable,All / Saleable,1
+Software,All / Saleable,1
+Office Furniture,All ,1
+Consumable,All / Consumable,1
