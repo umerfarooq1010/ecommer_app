@@ -59,6 +59,13 @@ This Docker image is designed to run a Python application exposed on port 8000 a
    alembic upgrade head
    
    ```
-
+2. **Run Application**:After do above mention steps, run the following file.
+      ```bash
+       python main.py 
+      ```
+3. **Database Credentials**: 
+   It relies on a PostgreSQL database, make sure you have a PostgreSQL server running and provide the necessary database connection details in environment file.
+4. user: admin
+   password: Admin!123
 
 
